@@ -30,3 +30,10 @@ Sentinel AI is an AI-powered surveillance system that analyzes video footage and
 ### How It Works
 
 Surveillance Video → YOLO Detection → Event Detection → Severity Classification → SQLite → Evidence & Dashboard
+
+## How to Run
+
+Activate the virtual environment:
+
+```bash
+venv\Scripts\activate
